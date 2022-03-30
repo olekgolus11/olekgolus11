@@ -5,4 +5,3 @@ Summer 2022:
 - JS course (0/1)
 - React course (0/1)
 - 3 any React projects (0/3)
-- piwko (beer) (∞)
