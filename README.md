@@ -6,4 +6,4 @@ What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender
 | JS | Next | Vite |
 | TS | Svelte | MUI |
 | React | Solid | Jest |
-| - | Astro | Testing Library |
+| SCSS | Astro | Testing Library |
