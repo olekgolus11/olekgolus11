@@ -7,5 +7,14 @@ I feel comfortable using:
 - React
 
 Looking forward to learn:
+- Next
 - Vue
 - Svelte
+- Solid
+- Astro
+
+Other technologies I feel familiar with:
+- Vite
+- MUI
+- Jest
+- Testing Library
