@@ -1,20 +1,9 @@
 Who am I? - I'm an IT student.                                                                                                                                        
-What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender).          
+What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender).
 
-I feel comfortable using:
-- JS
-- TS
-- React
-
-Looking forward to learn:
-- Next
-- Vue
-- Svelte
-- Solid
-- Astro
-
-Other technologies I feel familiar with:
-- Vite
-- MUI
-- Jest
-- Testing Library
+| I feel comfortable using | Looking forward to learn | Other technologies I feel familiar with |
+| ------ | ---------- | ------------ |
+| JS | Next | Vite |
+| TS | Svelte | MUI |
+| React | Solid | Jest |
+| - | Astro | Testing Library |
