@@ -5,7 +5,8 @@ What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender
 | ------ | ---------- | ------------ |
 | Javascript | Next | Vite |
 | Typescript | Svelte | Testing Library   |
-| React | SvelteKit | Jest |  |
+| React | SvelteKit | Jest |  
 | SCSS | Astro | Firebase |
-| Git and GitHub | Tailwind | 
-| MUI | 
+| Git and GitHub | Tailwind | npm |
+| MUI | | Github Actions |
+
