@@ -1,4 +1,4 @@
-# About me
+# About me 🙋
 
 Who am I? - I'm an IT student.                                                                                                                                        
 What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender).
@@ -12,5 +12,5 @@ What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender
 | Git and GitHub | Tailwind | npm |
 | MUI | | Github Actions |
 
-# Contact
+# Contact 📞
 - [Linked in](https://www.linkedin.com/in/aleksander-golus-844599220/)
