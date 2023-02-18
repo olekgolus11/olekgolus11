@@ -14,3 +14,4 @@ What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender
 
 # Contact 📞
 - [Linked in](https://www.linkedin.com/in/aleksander-golus-844599220/)
+- olekgolus02@gmail.com
