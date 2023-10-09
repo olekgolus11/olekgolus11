@@ -1,18 +1,19 @@
 # About me 🙋
 
 Who am I? - I'm an IT student.                                                                                                                                        
-What am I interested in? - Creating websites/web-apps. I also enjoy CGI (blender).
+What am I interested in? - Creating websites and services, fullstack. I also learn DevOps. Besides programming I enjoy CGI (blender).
 
 | I feel very comfortable using | Currently learning | Looking forward to learn | Other technologies I feel familiar with |
-| ------ | ---------- | ------------ | ----- |
-| Javascript | NextJS | Astro | Vite |
-| Typescript | Tailwind | Svelte | Testing Library   |
-| React | React Three Fiber | SvelteKit | Jest |  
-| SCSS | GSAP | NodeJS | Firebase |
-| Git and GitHub | Framer Motion |  | npm |
-| MUI | | | Github Actions |
-
+|:-----------------------------:|:------------------:|:------------------------:|:---------------------------------------:|
+|             React             |     Kubernetes     |           Astro          | Vite                                    |
+|           Typescript          |      Minikube      |          Svelte          | Testing Library                         |
+|  Git/GitHub/GitLab/BitBucket  |        Helm        |         SvelteKit        | Jest                                    |
+|            Node.js            |        GSAP        |                          | Firebase                                |
+|             Docker            |    Framer Motion   |                          | npm                                     |
+|           Express.js          |      Tailwind      |                          | Github Actions                          |
+|              SCSS             |        Next        |                          | Docker compose                          |
+|              MUI              |  React Three Fiber |                          |                                         |
 
 # Contact 📞
-- [Linked in](https://www.linkedin.com/in/aleksander-golus-844599220/)
+- [Linkedin](https://www.linkedin.com/in/aleksander-golus-844599220/)
 - olekgolus02@gmail.com
