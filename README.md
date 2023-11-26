@@ -4,7 +4,7 @@ Who am I? - I'm an IT student.
 What am I interested in? - Creating websites and services, fullstack. I also learn DevOps. Besides programming I enjoy CGI (blender).
 
 | I feel very comfortable using | Currently learning | Looking forward to learn | Other technologies I feel familiar with |
-|:-----------------------------:|:------------------:|:------------------------:|-----------------------------------------|
+|:-----------------------------:|:------------------:|:------------------------:|:----------------------------------------:|
 |             React             |        GSAP        |           Astro          |                   Vite                  |
 |           Typescript          |  React Three Fiber |          Svelte          |             Testing Library             |
 |  Git/GitHub/GitLab/BitBucket  |        Next        |         SvelteKit        |                   Jest                  |
