@@ -1,7 +1,7 @@
 # About me 🙋
 
-Who am I? - I'm an IT student.                                                                                                                                        
-What am I interested in? - Creating websites and services, fullstack. I also learn DevOps. Besides programming I enjoy CGI (blender).
+I'm an IT student.                                                                                                                                        
+Interested in creating websites and services.
 
 | I feel very comfortable using | Currently learning | Looking forward to learn | Other technologies I feel familiar with |
 |:-----------------------------:|:------------------:|:------------------------:|:----------------------------------------:|
