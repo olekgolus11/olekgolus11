@@ -1,21 +1,28 @@
-# About me 🙋
+# 👋 Hi, I'm Olek
 
-I'm an IT student.                                                                                                                                        
-Interested in creating websites and services.
+### Fullstack Developer • AI Systems • DevOps
 
-| I feel very comfortable using | Currently learning | Looking forward to learn | Other technologies I feel familiar with |
-|:-----------------------------:|:------------------:|:------------------------:|:----------------------------------------:|
-|             React             |        GSAP        |           Astro          |                   Vite                  |
-|           Typescript          |  React Three Fiber |          Svelte          |             Testing Library             |
-|  Git/GitHub/GitLab/BitBucket  |        Next        |         SvelteKit        |                   Jest                  |
-|            Node.js            |      Tailwind      |                          |                 Firebase                |
-|             Docker            | MongoDB / Mongoose |                          |                   npm                   |
-|           Express.js          |                    |                          |              Github Actions             |
-|              SCSS             |                    |                          |                   Helm                  |
-|              MUI              |                    |                          |              Framer Motion              |
-|         Docker compose        |                    |                          |                Kubernetes               |
-|                               |                    |                          |                 Minikube                |
+Building modern web applications, AI-powered systems, and scalable infrastructure.
 
-# Contact 📞
-- [Linkedin](https://www.linkedin.com/in/aleksander-golus-844599220/)
-- olekgolus02@gmail.com
+---
+
+## ⚙️ Tech Stack
+
+**Core**
+TypeScript • React • Next.js • Node.js
+Supabase • Vercel AI SDK
+
+**DevOps**
+Helm • Flux
+
+**Security**
+Web Application Pentesting
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/aleksander-golus-844599220
+
+Email: [olekgolus02@gmail.com](mailto:olekgolus02@gmail.com)
+
