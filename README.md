@@ -3,6 +3,7 @@
 ### Fullstack Developer • AI Systems • DevOps
 
 Building modern web applications, AI-powered systems, and scalable infrastructure.
+I also love terminal interfaces...
 
 ---
 
